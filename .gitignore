@@ -1,6 +1,9 @@
 # Binary files
 ./bin/**
+bin/**
 ./obj/**
+obj/**
 
 # VScode IDE
 ./.vs/**
+.vs/**
