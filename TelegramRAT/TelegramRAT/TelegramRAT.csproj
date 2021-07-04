@@ -89,7 +89,7 @@
     <Compile Include="core\telegram.cs" />
     <Compile Include="core\utils.cs" />
     <Compile Include="core\padding.cs" />
-    <Compile Include="core\padding1.cs" />
+    <!--<Compile Include="core\padding1.cs" />-->
     <!--<Compile Include="core\padding2.cs" />-->
     <!--<Compile Include="core\padding3.cs" />-->
     <!--<Compile Include="core\padding4.cs" />-->
