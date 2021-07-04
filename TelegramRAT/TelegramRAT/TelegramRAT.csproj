@@ -89,6 +89,13 @@
     <Compile Include="core\telegram.cs" />
     <Compile Include="core\utils.cs" />
     <Compile Include="core\padding.cs" />
+    <Compile Include="core\padding1.cs" />
+    <Compile Include="core\padding2.cs" />
+    <Compile Include="core\padding3.cs" />
+    <Compile Include="core\padding4.cs" />
+    <Compile Include="core\padding5.cs" />
+    <Compile Include="core\padding6.cs" />
+    <Compile Include="core\padding7.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
